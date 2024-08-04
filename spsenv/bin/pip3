@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/shailendrasingh/Desktop/Git_Desktop/Portfolio Project/Product_Sales_Forecasting/spsenv/bin/python3.12" "$0" "$@"
+'''exec' "/Users/shailendrasingh/Desktop/Git_Desktop/Portfolio Project/SalesForecastingApp/spsenv/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
